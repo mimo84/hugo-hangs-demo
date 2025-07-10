@@ -1,0 +1,72 @@
+#+title: Recipes - Dough For Pizza Napoletana - Index
+#+DATE: 2024-09-27T09:49:24+10:00
+#+draft: false
+#+author: Maurizio Napoleoni
+
+* Pizza 60% Hydration, 4 Balls
+
+** Ingredients
+
+| Ingredient  | Amount (g) |
+|-------------+------------|
+| Flour       | 641g       |
+| Water       | 385g       |
+| Salt        | 12g        |
+| Yeast (dry) | 1.4g       |
+
+** Procedure
+
+1. Mix all the ingredients until no dry flour is visible.
+   Cover with some plastic wrap or a wet cloth to prevent evaporation.
+   Let it rest for about 30 minutes.
+   #+CAPTION: Mixed ingredients, no dry flour and ready to rest
+   #+NAME:   fig:mix-ingredients
+   [[./mix-dough.jpg]]
+
+2. Every 30 to 45 minutes mix the dough with a stretch and fold method.
+   Do this for about 3 times in total.
+
+3. Let the dough rest and rise until it doubles in size.
+
+4. At this point we can shape the dough balls.
+   #+CAPTION: Divided in equal pieces we can make the dough balls. Each about 260g
+   #+NAME: fig:doug-balls
+   [[./make-dough-balls.jpg]]
+
+5. Now, we need to rest the dough in the fridge for at least the next 8 hours.
+   To do this I use noodle takeaway containers, which I put upside down so that
+   I can rest the dough on the lid of the container and use the container as a lid.
+   This also allows me to stack more dough balls on top of each other.
+   #+CAPTION: Oil the bottom of the lid with a bit of oil
+   #+NAME: fig:oil-lid-container
+   [[./oil-bottom-container.jpg]]
+
+   Place the dough on the lid that you have just oiled:
+   #+CAPTION: Dough on container lid previously oilde
+   #+NAME: dough-on-lid
+   [[./place-dough-on-lid.jpg]]
+
+   Cover the dough with the container itself.
+   #+CAPTION: The container becomes a lid.
+   #+NAME: container-lid-dough
+   [[./cover-dough-with-lid.jpg]]
+
+   Now we can rest the dough in the fridge and let it rest.
+   It can stay in the fridge anywhere between 8 and 48 hours.
+   I have even kept the dough in the fridge for longer it the past, up to 1 week.
+
+8. This is the dough after 8 hours of rest in the fridge
+   ready to be transformed in pizza.
+   #+CAPTION: Dough balls after resting 8 hours in the fridge
+   #+NAME: dough-after-8-hours-rest
+   [[./dough-after-resting-in-fridge.jpg]]
+
+9. The pizza is now ready to be stretched and filled with ingredients.
+   #+CAPTION: Dough after being stretched by hand.
+   #+NAME: pizza-stretched
+   [[./pizza-on-pizza-peel.jpg]]
+
+
+   #+CAPTION: Some of the pizzas I made that night.
+   #+NAME: pizza-final-result
+   [[./pizza-result.jpg]]
